@@ -1,0 +1,16 @@
+06:34:07.286 [main] INFO  api.test.UserTestWithFaker -************************creating user*******************************8
+06:34:11.386 [main] INFO  api.test.UserTestWithFaker -************************created user*******************************8
+06:34:11.399 [main] INFO  api.test.UserTestWithFaker -************************getting user*******************************8
+06:34:11.678 [main] INFO  api.test.UserTestWithFaker -************************got user*******************************8
+06:34:11.687 [main] INFO  api.test.UserTestWithFaker -************************update user*******************************8
+06:34:12.375 [main] INFO  api.test.UserTestWithFaker -************************user updated*******************************8
+06:34:12.389 [main] INFO  api.test.UserTestWithFaker -************************deleting user*******************************8
+06:34:13.001 [main] INFO  api.test.UserTestWithFaker -************************user deleted*******************************8
+06:35:00.419 [main] INFO  api.test.UserTestWithFaker -************************creating user*******************************8
+06:35:04.426 [main] INFO  api.test.UserTestWithFaker -************************created user*******************************8
+06:35:04.434 [main] INFO  api.test.UserTestWithFaker -************************getting user*******************************8
+06:35:04.900 [main] INFO  api.test.UserTestWithFaker -************************got user*******************************8
+06:35:04.919 [main] INFO  api.test.UserTestWithFaker -************************update user*******************************8
+06:35:05.592 [main] INFO  api.test.UserTestWithFaker -************************user updated*******************************8
+06:35:05.596 [main] INFO  api.test.UserTestWithFaker -************************deleting user*******************************8
+06:35:06.222 [main] INFO  api.test.UserTestWithFaker -************************user deleted*******************************8

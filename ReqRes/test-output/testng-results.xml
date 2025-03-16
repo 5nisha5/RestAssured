@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-16T06:35:00 IST" name="Default suite" finished-at="2025-03-16T06:35:06 IST" duration-ms="6062">
+    <groups>
+    </groups>
+    <test started-at="2025-03-16T06:35:00 IST" name="Default test" finished-at="2025-03-16T06:35:06 IST" duration-ms="6062">
+      <class name="api.test.UserTestWithFaker">
+        <test-method is-config="true" signature="setupTestData()[pri:0, instance:api.test.UserTestWithFaker@aeab9a1]" started-at="2025-03-16T06:35:00 IST" name="setupTestData" finished-at="2025-03-16T06:35:00 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTestData -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.test.UserTestWithFaker@aeab9a1]" started-at="2025-03-16T06:35:00 IST" name="testCreateUser" finished-at="2025-03-16T06:35:04 IST" duration-ms="4021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUser()[pri:2, instance:api.test.UserTestWithFaker@aeab9a1]" started-at="2025-03-16T06:35:04 IST" name="testGetUser" finished-at="2025-03-16T06:35:04 IST" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUser -->
+        <test-method signature="testUpdateUser()[pri:3, instance:api.test.UserTestWithFaker@aeab9a1]" started-at="2025-03-16T06:35:04 IST" name="testUpdateUser" finished-at="2025-03-16T06:35:05 IST" depends-on-methods="api.test.UserTestWithFaker.testCreateUser" duration-ms="678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testDeleteUser()[pri:4, instance:api.test.UserTestWithFaker@aeab9a1]" started-at="2025-03-16T06:35:05 IST" name="testDeleteUser" finished-at="2025-03-16T06:35:06 IST" depends-on-methods="api.test.UserTestWithFaker.testCreateUser" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUser -->
+      </class> <!-- api.test.UserTestWithFaker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
